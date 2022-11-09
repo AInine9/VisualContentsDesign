@@ -1,0 +1,14 @@
+.img1 {
+    vertical-align: middle;
+    width: 40%;
+}
+
+.text1 {
+    vertical-align: middle;
+    display: inline-block;
+    font-size: x-large;
+    text-align: center;
+    line-height: 2;
+    padding: 0 4%;
+    width: 50%;
+}

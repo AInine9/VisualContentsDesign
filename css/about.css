@@ -1,0 +1,16 @@
+.section {
+    padding: 20px 10%;
+}
+
+.img {
+    vertical-align: middle;
+    width: 30%;
+}
+
+.text {
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 2;
+    padding: 0 4%;
+    width: 50%;
+}
